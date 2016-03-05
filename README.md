@@ -1,8 +1,16 @@
-# TextureBillboard
+# Toon Shading and Silhouette Rendering
 
-The texture plane automatically rotates to always be perpendicular to the camera direction
+Demonstrate Toon Shading and Silhouette Rendering GLSL. Program was written in Qt 5.5 framework.
 
-![1](https://cloud.githubusercontent.com/assets/7416935/7902471/331fb8e8-0778-11e5-8c0b-5e5ca10ddc3f.png)
+# Phong Shading with Silhouette
 
-![2](https://cloud.githubusercontent.com/assets/7416935/7902470/331e43fa-0778-11e5-96c7-9866db53b599.png)
+![1](https://raw.githubusercontent.com/ttnghia/Silhouette/master/screenshots/phong_silhouette.png)
+
+# Toon Shading
+
+![2](https://raw.githubusercontent.com/ttnghia/Silhouette/master/screenshots/toon_shading.png)
+
+# Toon Shading with Silhouette
+
+![3](https://raw.githubusercontent.com/ttnghia/Silhouette/master/screenshots/toon_silhouette.png)
 
