@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/toon-shading.vs.glsl</file>
+        <file>shaders/phong-shading.fs.glsl</file>
+        <file>shaders/phong-shading.vs.glsl</file>
+        <file>shaders/test.fs.glsl</file>
+        <file>shaders/test.vs.glsl</file>
+        <file>shaders/toon-shading.fs.glsl</file>
+        <file>shaders/phong-shading.gs.glsl</file>
+        <file>shaders/silhouette.fs.glsl</file>
+        <file>shaders/silhouette.vs.glsl</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/metals/AluminumTubing-ColorMap.png</file>
+        <file>textures/metals/AluminumTubing-NormalMap.png</file>
+        <file>textures/metals/BronzeAgeArtifact-ColorMap.png</file>
+        <file>textures/metals/BronzeAgeArtifact-NormalMap.png</file>
+        <file>textures/metals/CopperVerdigris-ColorMap.png</file>
+        <file>textures/metals/CopperVerdigris-NormalMap.png</file>
+        <file>textures/metals/PyramidVerdigris-ColorMap.png</file>
+        <file>textures/metals/PyramidVerdigris-NormalMap.png</file>
+        <file>textures/metals/TexturedMetal-ColorMap.png</file>
+        <file>textures/metals/TexturedMetal-NormalMap.png</file>
+    </qresource>
+</RCC>
